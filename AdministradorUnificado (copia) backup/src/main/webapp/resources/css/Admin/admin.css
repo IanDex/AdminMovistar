@@ -1,0 +1,233 @@
+/*para moviles*/
+@font-face {
+  font-family: 'Telefonica-Light';
+  src: url('../fuentes/Telefonica-Light.otf');
+  src: url('../fuentes/Telefonica-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Telefonica-ExtraLight';
+  src: url('../fuentes/Telefonica-ExtraLight.otf');
+  src: url('../fuentes/Telefonica-ExtraLight.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Telefonica-Regular';
+  src: url('../fuentes/Telefonica-Regular.otf');
+  src: url('../fuentes/Telefonica-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+	background-image: url(../../imagenes/fondoCielo.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-color: #fff;
+}
+
+::placeholder {
+  color: #86888c;
+}
+
+/*materialize css edit*/
+input[type="text"].select-dropdown:not(.browser-default){
+    border: 1px solid #b6b7b7 ;
+}
+
+input.invalid:not([type]), input.invalid:not([type]):focus, input[type=text].invalid:not(.browser-default), input[type=text].invalid:not(.browser-default):focus, input[type=password].invalid:not(.browser-default), input[type=password].invalid:not(.browser-default):focus, input[type=email].invalid:not(.browser-default), input[type=email].invalid:not(.browser-default):focus, input[type=url].invalid:not(.browser-default), input[type=url].invalid:not(.browser-default):focus, input[type=time].invalid:not(.browser-default), input[type=time].invalid:not(.browser-default):focus, input[type=date].invalid:not(.browser-default), input[type=date].invalid:not(.browser-default):focus, input[type=datetime].invalid:not(.browser-default), input[type=datetime].invalid:not(.browser-default):focus, input[type=datetime-local].invalid:not(.browser-default), input[type=datetime-local].invalid:not(.browser-default):focus, input[type=tel].invalid:not(.browser-default), input[type=tel].invalid:not(.browser-default):focus, input[type=number].invalid:not(.browser-default), input[type=number].invalid:not(.browser-default):focus, input[type=search].invalid:not(.browser-default), input[type=search].invalid:not(.browser-default):focus, textarea.materialize-textarea.invalid, textarea.materialize-textarea.invalid:focus, .select-wrapper.invalid > input.select-dropdown{
+	border: 1px solid #e9426d ;
+	-webkit-box-shadow: 0 1px 0 0 #e9426d ;
+	box-shadow: 0 1px 0 0 #e9426d ;
+}
+
+input.valid:not([type]), input.valid:not([type]):focus, input[type=text].valid:not(.browser-default), input[type=text].valid:not(.browser-default):focus, input[type=password].valid:not(.browser-default), input[type=password].valid:not(.browser-default):focus, input[type=email].valid:not(.browser-default), input[type=email].valid:not(.browser-default):focus, input[type=url].valid:not(.browser-default), input[type=url].valid:not(.browser-default):focus, input[type=time].valid:not(.browser-default), input[type=time].valid:not(.browser-default):focus, input[type=date].valid:not(.browser-default), input[type=date].valid:not(.browser-default):focus, input[type=datetime].valid:not(.browser-default), input[type=datetime].valid:not(.browser-default):focus, input[type=datetime-local].valid:not(.browser-default), input[type=datetime-local].valid:not(.browser-default):focus, input[type=tel].valid:not(.browser-default), input[type=tel].valid:not(.browser-default):focus, input[type=number].valid:not(.browser-default), input[type=number].valid:not(.browser-default):focus, input[type=search].valid:not(.browser-default), input[type=search].valid:not(.browser-default):focus, textarea.materialize-textarea.valid, textarea.materialize-textarea.valid:focus, .select-wrapper.valid > input.select-dropdown{
+	border: 1px solid #b6b7b7 ;
+    -webkit-box-shadow: 0 1px 0 0 #b6b7b7 ;
+    box-shadow: 0 1px 0 0 #b6b7b7 ;
+}
+
+input:not([type]):focus:not([readonly]), input[type="text"]:not(.browser-default):focus:not([readonly]), input[type="password"]:not(.browser-default):focus:not([readonly]), input[type="email"]:not(.browser-default):focus:not([readonly]), input[type="url"]:not(.browser-default):focus:not([readonly]), input[type="time"]:not(.browser-default):focus:not([readonly]), input[type="date"]:not(.browser-default):focus:not([readonly]), input[type="datetime"]:not(.browser-default):focus:not([readonly]), input[type="datetime-local"]:not(.browser-default):focus:not([readonly]), input[type="tel"]:not(.browser-default):focus:not([readonly]), input[type="number"]:not(.browser-default):focus:not([readonly]), input[type="search"]:not(.browser-default):focus:not([readonly]), textarea.materialize-textarea:focus:not([readonly]) {
+    border: 1px solid #b6b7b7 ;
+    -webkit-box-shadow: 0 1px 0 0 #b6b7b7 ;
+    box-shadow: 0 1px 0 0 #b6b7b7 ;
+}
+
+input:not([type]), input[type=text]:not(.browser-default), input[type=password]:not(.browser-default), input[type=email]:not(.browser-default), input[type=url]:not(.browser-default), input[type=time]:not(.browser-default), input[type=date]:not(.browser-default), input[type=datetime]:not(.browser-default), input[type=datetime-local]:not(.browser-default), input[type=tel]:not(.browser-default), input[type=number]:not(.browser-default), input[type=search]:not(.browser-default), textarea.materialize-textarea{
+    border: 1px solid #b6b7b7 ;
+    -webkit-box-shadow: 0 1px 0 0 #b6b7b7 ;
+    box-shadow: 0 1px 0 0 #b6b7b7 ;
+    color: #b6b7b7;
+    height: 2.5rem;
+    font-size: 15px;
+}
+
+.picker__date-display {
+    background-color: #033257;
+}
+
+.picker__day--selected, .picker__day--selected:hover, .picker--focused .picker__day--selected {
+    background-color: #00a9e0;
+    color: #ffffff;
+}
+
+.picker__close, .picker__today{
+    color: #033257;
+}
+
+.picker__clear {
+    color: #f44336;
+}
+
+.picker {
+    background-color: #00a9e0;
+}
+
+.picker__day.picker__day--today {
+    color: #00a9e0;
+}
+
+.dropdown-content li > a, .dropdown-content li > span {
+    color: #033257 !important;
+}
+
+.form-app h1 , .form-app h2 , .form-app h3{
+	font-family: 'Telefonica-Light', sans-serif;
+}
+
+.form-app p , .form-app label , .form-app span, .form-app a, .form-app input , .form-app button{
+	font-family: 'Telefonica-Regular', sans-serif;
+}
+
+.select-wrapper span.caret {
+    right: 12px;
+}
+
+/* AL REALIZAR PROCESOS QUE REQUIERAN CONGELAR LA PANTALLA */
+/* The Modal (background) */
+.PopUp {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 3; /* Sit on top */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0, 0, 0); /* Fallback color */
+	background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.PopUpContent {
+	background-color: #fefefe;
+	margin: 18% auto;
+	padding-top: 3%;
+	padding-left: 2%;
+	padding-right: 2%;
+	border: 1px solid #50535a;
+	height: 120px;
+	width: 240px;
+}
+
+h2 {
+    color: #50535a;
+}
+
+/*css de componentes*/
+
+a#btnConsultar{
+	background-color: #5bc500 !important;
+	height:36px;
+}
+
+a#btnExport{
+	background-color: #5bc500 !important;
+	height:36px;
+}
+
+a#btnExportMovPlay{
+	background-color: #5bc500 !important;
+	height:54px;
+}
+
+.btnsMovPlay{
+	display: none;
+}
+
+.arrowicon{
+	color: #5bc500;
+}
+
+#datatable td {
+	text-align: center;
+}
+
+#datatable thead{
+	background-color: #033257;
+	color: white;
+	text-transform: uppercase;
+}
+
+#datatable{
+	font-size: 11px;
+}
+
+.paginatorDiv{
+	width: 44px;
+}
+
+#listArrowDatatabble{
+	display: flex;
+}
+
+.paginatorElement {
+    padding: 7px 8px 15px 10px;
+}
+
+#formulario, #formularioMovPlay{
+	display: none;
+}
+
+#fechaFin, #formulario, #fechaInicio {
+    margin-top: 6px;
+}
+
+/*theme welcome*/
+.aui .row {
+    margin-left: 0px;
+}
+
+.aui .caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    vertical-align: unset;
+    border: 0;
+    content: unset;
+}
+
+.caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    vertical-align: top;
+    border: 0;
+    content: unset;
+}
+
+.aui .btn-large {
+    padding: 0;
+    -webkit-border-radius: 33px;
+    border-radius: 33px;
+}
+
+.aui a {
+    color: #00aaff;
+    text-decoration: none;
+}

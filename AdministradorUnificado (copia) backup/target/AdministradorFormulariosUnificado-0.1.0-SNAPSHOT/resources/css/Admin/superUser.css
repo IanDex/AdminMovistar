@@ -1,0 +1,114 @@
+/*para moviles*/
+@font-face {
+  font-family: 'Telefonica-Light';
+  src: url('../fuentes/Telefonica-Light.otf');
+  src: url('../fuentes/Telefonica-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Telefonica-ExtraLight';
+  src: url('../fuentes/Telefonica-ExtraLight.otf');
+  src: url('../fuentes/Telefonica-ExtraLight.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Telefonica-Regular';
+  src: url('../fuentes/Telefonica-Regular.otf');
+  src: url('../fuentes/Telefonica-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*Materialize edit*/
+.user-view .background {
+    background: #033257;
+}
+
+.collapsible-body a {
+    margin: 0 auto;
+    padding: 0px 50px;
+}
+
+.tabs .tab a:hover, .tabs .tab a.active, .tabs .tab a {
+    background-color: transparent;
+    color: #033257;
+    text-decoration: none;
+}
+
+.tabs .indicator {
+    background-color: #033257;
+}
+
+select.browser-default {
+    display: inline;
+    margin-left: 16px;
+    margin-bottom: 0px;
+    width: 91%;
+}
+
+/*components css*/
+.userMgs {
+    font-weight: lighter;
+}
+
+#datatable thead, #usuario thead, #rol thead, #usuario_rol thead{
+	background-color: #033257;
+	color: white;
+	text-transform: uppercase;
+}
+
+#datatable, #usuario, #rol{
+	font-size: 11px;
+}
+
+.modal a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.thButon{
+	width: 140px;
+}
+
+.actionTd a, .actionTd a.btn-flat:hover, .actionTd a.btn-flat:focus{
+	background-color: var(--movistar-blue);
+	margin: 0;
+	padding: 0 10px;
+	border: 1px solid;
+	border-radius: 8px;
+}
+
+a#aGetRoles{
+	background-color: var(--steel);
+}
+
+a#aAddRole{
+	background-color: var(--movistar-blue);
+}
+
+a#aEditUsuario{
+	background-color: var(--movistar-green);
+}
+
+a.btnDelete {
+	font-weight: bold;
+}
+
+a#btnExportMovPlay{
+	background-color: #5bc500 !important;
+	height:54px;
+}
+
+a#btnExport{
+	background-color: #5bc500 !important;
+	height:36px;
+	font-size: 13px;
+}
+
+.datatableDomSup .input-field a ,.datatableDomSup .input-field a.btn:hover, .datatableDomSup .input-field a.btn:focus{
+    margin-top: 0;
+}

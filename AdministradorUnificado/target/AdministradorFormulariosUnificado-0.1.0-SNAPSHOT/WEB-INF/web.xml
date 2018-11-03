@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" version="3.1">
+  <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>com.grupodot.telefonica.Views.LoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>LogoutServlet</servlet-name>
+    <servlet-class>com.grupodot.telefonica.Views.LogoutServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>LogoutServlet</servlet-name>
+    <url-pattern>/logout</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>jsonUsuario</servlet-name>
+    <servlet-class>com.grupodot.telefonica.Views.jsonUsuario</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>jsonUsuario</servlet-name>
+    <url-pattern>/json</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>adminServlet</servlet-name>
+    <servlet-class>com.grupodot.telefonica.Views.adminServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>adminServlet</servlet-name>
+    <url-pattern>/administrador</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>superAdminServlet</servlet-name>
+    <servlet-class>com.grupodot.telefonica.Views.superAdminServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>superAdminServlet</servlet-name>
+    <url-pattern>/superAdmin</url-pattern>
+  </servlet-mapping>
+ 
+</web-app>

@@ -1,0 +1,174 @@
+{
+  "data": [
+    [
+      "usuario1",
+      "Esteban Lobo Zornoza",
+      "1"
+    ],
+    [
+      "usuario2",
+      "Juan Diego Alfonso",
+      "1"
+    ],
+    [
+      "usuario3",
+      "Hernesta Laura",
+      "2"
+    ],
+    [
+      "superuser",
+      "Super Usuario",
+      "4"
+    ],
+    [
+      "usuario4",
+      "User admin GE GI",
+      "1"
+    ],
+    [
+      "admServicioTecnico",
+      "Administrador Servicio Tecnico",
+      "1"
+    ],
+    [
+      "admFactElect",
+      "Administrador Factura electronica",
+      "1"
+    ],
+    [
+      "admFormRegulatorio",
+      "Administrador Formulario Regulatorio",
+      "1"
+    ],
+    [
+      "admPrePosPos",
+      "Administrador para los formularios pos-pos y pre-p",
+      "1"
+    ],
+    [
+      "admMovPlay",
+      "Admin Formulario Movistar Play",
+      "1"
+    ],
+    [
+      "admClickToCall",
+      "Admin Click2Call",
+      "1"
+    ],
+    [
+      "admEncuestaSoporteMovil",
+      "Admin Encuesta Soporte Móvil",
+      "1"
+    ],
+    [
+      "admEncuestaSoporteFijo",
+      "Admin Encuesta Soporte Fijo",
+      "1"
+    ],
+    [
+      "admEncuestaAtenMasiva",
+      "Admin Encuesta Atención Masiva",
+      "1"
+    ],
+    [
+      "admEncuestaSatisPyme",
+      "Admin Encuesta Satisfacción Pymes",
+      "1"
+    ],
+    [
+      "admEncuestaSatisCorpo",
+      "Admin Encuesta Satisfacción Corporaciones",
+      "1"
+    ],
+    [
+      "admEntregaCamiseta",
+      "Admin Entrega Camiseta",
+      "1"
+    ],
+    [
+      "admTarjetaClientePre",
+      "Admin Tarjeta Cliente Preferencial Prepago",
+      "1"
+    ],
+    [
+      "adminRepetidorWF",
+      "Admin Repetidor WiFi",
+      "1"
+    ],
+    [
+      "adminEncuestaSatisf",
+      "Admin Encuesta Satisfacción Cliente",
+      "1"
+    ],
+    [
+      "adminMovistarUNAD",
+      "Admin Formulario Planes UNAD",
+      "1"
+    ],
+    [
+      "adminSeguros",
+      "Admin Seguros",
+      "1"
+    ],
+    [
+      "admGigasGratis",
+      "Admin Oferta Gigas Gratis",
+      "1"
+    ],
+    [
+      "admEncuestaServicios",
+      "Admin Encuesta Serivicios Movistar",
+      "1"
+    ],
+    [
+      "admPlanesIlimitados",
+      "Admin Formulario Planes Ilimitados",
+      "1"
+    ],
+    [
+      "admAmigosReferidos",
+      "Admin Formulario Amigos Referidos",
+      "1"
+    ],
+    [
+      "admExternosReferidos",
+      "Admin Formulario Externos Referidos",
+      "1"
+    ],
+    [
+      "adminIphone",
+      "Admin Formulario Iphone Datos",
+      "1"
+    ],
+    [
+      "adminmovPlayLite",
+      "Admin Formulario Movistar Play Lite",
+      "1"
+    ],
+    [
+      "adminTrivia",
+      "Admin Trivia App Mi Movistar",
+      "1"
+    ],
+    [
+      "adminReagendaClient",
+      "Admin Formulario Reagendamiento Cliente",
+      "1"
+    ],
+    [
+      "adminrepetidor",
+      "Admini Formulario Confirmacion Repetidor",
+      "1"
+    ],
+    [
+      "adminRedencionBeneficios",
+      "Admin Formulario Rdencion Beneficios",
+      "1"
+    ],
+    [
+      "adminpruebas",
+      "Administrador para pruebas",
+      "4"
+    ]
+  ]
+}

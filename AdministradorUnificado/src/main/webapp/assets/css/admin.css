@@ -1,0 +1,63 @@
+.error_v::-webkit-input-placeholder {
+    color: red;
+}
+.error_v{
+	border: 1px solid #e40707;
+}
+
+.label__error{
+	color: red;
+}
+
+.mar-10{
+	margin-right: 10px;
+	margin-bottom: 20px;
+}
+
+.select2-container .select2-container--default .select2-container--open{
+	    position: fixed;
+    top: 440.844px;
+    left: 100.609px;
+    z-index: 1111;
+
+}
+
+.h2{
+	color: #909090;
+}
+
+margin-b-30{
+	margin-bottom:-30px;
+}
+
+#error-create{
+	color: red;
+}
+
+.error_create-i::-webkit-input-placeholder {
+    color: red;
+}
+.error_create-i{
+	border-bottom: 1px solid #e40707;
+}
+
+.toolbar:not(.toolbar--inner) {
+    background-color: #FFF;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    box-shadow: 0 2px 0px #e9ecef;
+    width: 100%;
+}
+
+div.modal-scroll {
+	height: 300px;
+    overflow-y: scroll;
+}
+
+.dTables{
+	    font-size: 16px;
+}
+
+.btn-sm{
+	margin-right: 6%;
+}

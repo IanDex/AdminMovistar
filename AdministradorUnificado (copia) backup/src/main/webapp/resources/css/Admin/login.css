@@ -1,0 +1,80 @@
+/*para moviles*/
+@font-face {
+  font-family: 'Telefonica-Light';
+  src: url('../fuentes/Telefonica-Light.otf');
+  src: url('../fuentes/Telefonica-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Telefonica-ExtraLight';
+  src: url('../fuentes/Telefonica-ExtraLight.otf');
+  src: url('../fuentes/Telefonica-ExtraLight.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Telefonica-Regular';
+  src: url('../fuentes/Telefonica-Regular.otf');
+  src: url('../fuentes/Telefonica-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+input[type="text"].select-dropdown:not(.browser-default){
+    border-bottom: 1px solid #5bc500 ;
+}
+
+input.invalid:not([type]), input.invalid:not([type]):focus, input[type=text].invalid:not(.browser-default), input[type=text].invalid:not(.browser-default):focus, input[type=password].invalid:not(.browser-default), input[type=password].invalid:not(.browser-default):focus, input[type=email].invalid:not(.browser-default), input[type=email].invalid:not(.browser-default):focus, input[type=url].invalid:not(.browser-default), input[type=url].invalid:not(.browser-default):focus, input[type=time].invalid:not(.browser-default), input[type=time].invalid:not(.browser-default):focus, input[type=date].invalid:not(.browser-default), input[type=date].invalid:not(.browser-default):focus, input[type=datetime].invalid:not(.browser-default), input[type=datetime].invalid:not(.browser-default):focus, input[type=datetime-local].invalid:not(.browser-default), input[type=datetime-local].invalid:not(.browser-default):focus, input[type=tel].invalid:not(.browser-default), input[type=tel].invalid:not(.browser-default):focus, input[type=number].invalid:not(.browser-default), input[type=number].invalid:not(.browser-default):focus, input[type=search].invalid:not(.browser-default), input[type=search].invalid:not(.browser-default):focus, textarea.materialize-textarea.invalid, textarea.materialize-textarea.invalid:focus, .select-wrapper.invalid > input.select-dropdown{
+	border-bottom: 1px solid #e9426d ;
+	-webkit-box-shadow: 0 1px 0 0 #e9426d ;
+	box-shadow: 0 1px 0 0 #e9426d ;
+}
+
+input.valid:not([type]), input.valid:not([type]):focus, input[type=text].valid:not(.browser-default), input[type=text].valid:not(.browser-default):focus, input[type=password].valid:not(.browser-default), input[type=password].valid:not(.browser-default):focus, input[type=email].valid:not(.browser-default), input[type=email].valid:not(.browser-default):focus, input[type=url].valid:not(.browser-default), input[type=url].valid:not(.browser-default):focus, input[type=time].valid:not(.browser-default), input[type=time].valid:not(.browser-default):focus, input[type=date].valid:not(.browser-default), input[type=date].valid:not(.browser-default):focus, input[type=datetime].valid:not(.browser-default), input[type=datetime].valid:not(.browser-default):focus, input[type=datetime-local].valid:not(.browser-default), input[type=datetime-local].valid:not(.browser-default):focus, input[type=tel].valid:not(.browser-default), input[type=tel].valid:not(.browser-default):focus, input[type=number].valid:not(.browser-default), input[type=number].valid:not(.browser-default):focus, input[type=search].valid:not(.browser-default), input[type=search].valid:not(.browser-default):focus, textarea.materialize-textarea.valid, textarea.materialize-textarea.valid:focus, .select-wrapper.valid > input.select-dropdown{
+	border-bottom: 1px solid #5bc500 ;
+    -webkit-box-shadow: 0 1px 0 0 #5bc500 ;
+    box-shadow: 0 1px 0 0 #5bc500 ;
+}
+
+input:not([type]):focus:not([readonly]), input[type="text"]:not(.browser-default):focus:not([readonly]), input[type="password"]:not(.browser-default):focus:not([readonly]), input[type="email"]:not(.browser-default):focus:not([readonly]), input[type="url"]:not(.browser-default):focus:not([readonly]), input[type="time"]:not(.browser-default):focus:not([readonly]), input[type="date"]:not(.browser-default):focus:not([readonly]), input[type="datetime"]:not(.browser-default):focus:not([readonly]), input[type="datetime-local"]:not(.browser-default):focus:not([readonly]), input[type="tel"]:not(.browser-default):focus:not([readonly]), input[type="number"]:not(.browser-default):focus:not([readonly]), input[type="search"]:not(.browser-default):focus:not([readonly]), textarea.materialize-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid #5bc500 ;
+    -webkit-box-shadow: 0 1px 0 0 #5bc500 ;
+    box-shadow: 0 1px 0 0 #5bc500 ;
+}
+
+input:not([type]), input[type=text]:not(.browser-default), input[type=password]:not(.browser-default), input[type=email]:not(.browser-default), input[type=url]:not(.browser-default), input[type=time]:not(.browser-default), input[type=date]:not(.browser-default), input[type=datetime]:not(.browser-default), input[type=datetime-local]:not(.browser-default), input[type=tel]:not(.browser-default), input[type=number]:not(.browser-default), input[type=search]:not(.browser-default), textarea.materialize-textarea{
+    color: #50535a;
+    height: 2.5rem;
+    font-size: 15px;
+}
+
+.dropdown-content li > a, .dropdown-content li > span {
+    color: #5bc500 !important;
+}
+
+.form-app h1 , .form-app h2 , .form-app h3{
+	font-family: 'Telefonica-Light', sans-serif;
+}
+
+.form-app p , .form-app label , .form-app span, .form-app a, .form-app input , .form-app button{
+	font-family: 'Telefonica-Regular', sans-serif;
+}
+
+h2 {
+    color: #888;
+}
+
+button#btnLogin{
+	background-color: #5bc500 !important;
+}
+
+#select-options-67c51fe6-ae6e-3e78-4301-4a80166569ce, ul {
+	position: static !important;
+}
+
+.contMain {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 90%;
+}

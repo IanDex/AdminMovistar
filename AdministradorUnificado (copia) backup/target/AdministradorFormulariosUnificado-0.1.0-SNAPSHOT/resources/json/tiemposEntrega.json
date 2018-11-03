@@ -1,0 +1,5771 @@
+[
+  {
+    "Departamento": "AMAZONAS",
+    "municipios":[
+      {
+        "codigo": "91263",
+        "nombre": "EL ENCANTO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "91405",
+        "nombre": "LA CHORRERA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "91407",
+        "nombre": "LA PEDRERA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "91430",
+        "nombre": "LA VICTORIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "91001",
+        "nombre": "LETICIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "91460",
+        "nombre": "MIRITI PARANA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "91530",
+        "nombre": "PUERTO ALEGRIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "91536",
+        "nombre": "PUERTO ARICA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "91540",
+        "nombre": "PUERTO NARIÑO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "91669",
+        "nombre": "PUERTO SANTANDER",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "91798",
+        "nombre": "TARAPACA",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "ANTIOQUIA",
+    "municipios":[
+      {
+        "codigo": "5002",
+        "nombre": "ABEJORRAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5004",
+        "nombre": "ABRIAQUI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5021",
+        "nombre": "ALEJANDRIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5030",
+        "nombre": "AMAGA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5031",
+        "nombre": "AMALFI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5034",
+        "nombre": "ANDES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5036",
+        "nombre": "ANGELOPOLIS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5038",
+        "nombre": "ANGOSTURA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5040",
+        "nombre": "ANORI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5044",
+        "nombre": "ANZA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5045",
+        "nombre": "APARTADO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5051",
+        "nombre": "ARBOLETES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5055",
+        "nombre": "ARGELIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5059",
+        "nombre": "ARMENIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5079",
+        "nombre": "BARBOSA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5088",
+        "nombre": "BELLO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5086",
+        "nombre": "BELMIRA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5091",
+        "nombre": "BETANIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5093",
+        "nombre": "BETULIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5107",
+        "nombre": "BRICEÑO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5113",
+        "nombre": "BURITICA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5120",
+        "nombre": "CACERES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5125",
+        "nombre": "CAICEDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5129",
+        "nombre": "CALDAS",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5134",
+        "nombre": "CAMPAMENTO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5138",
+        "nombre": "CAÑASGORDAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5142",
+        "nombre": "CARACOLI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5145",
+        "nombre": "CARAMANTA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5147",
+        "nombre": "CAREPA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5150",
+        "nombre": "CAROLINA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5154",
+        "nombre": "CAUCASIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5172",
+        "nombre": "CHIGORODO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5190",
+        "nombre": "CISNEROS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5101",
+        "nombre": "CIUDAD BOLIVAR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5197",
+        "nombre": "COCORNA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5206",
+        "nombre": "CONCEPCION",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5209",
+        "nombre": "CONCORDIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5212",
+        "nombre": "COPACABANA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5234",
+        "nombre": "DABEIBA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5237",
+        "nombre": "DON MATIAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5240",
+        "nombre": "EBEJICO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5250",
+        "nombre": "EL BAGRE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5148",
+        "nombre": "EL CARMEN DE VIBORAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5697",
+        "nombre": "EL SANTUARIO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5264",
+        "nombre": "ENTRERRIOS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5266",
+        "nombre": "ENVIGADO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5282",
+        "nombre": "FREDONIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5284",
+        "nombre": "FRONTINO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5306",
+        "nombre": "GIRALDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5308",
+        "nombre": "GIRARDOTA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5310",
+        "nombre": "GOMEZ PLATA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5313",
+        "nombre": "GRANADA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5315",
+        "nombre": "GUADALUPE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5318",
+        "nombre": "GUARNE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5321",
+        "nombre": "GUATAPE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5347",
+        "nombre": "HELICONIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5353",
+        "nombre": "HISPANIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5360",
+        "nombre": "ITAGUI",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5361",
+        "nombre": "ITUANGO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5364",
+        "nombre": "JARDIN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5368",
+        "nombre": "JERICO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5376",
+        "nombre": "LA CEJA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "5380",
+        "nombre": "LA ESTRELLA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5390",
+        "nombre": "LA PINTADA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5400",
+        "nombre": "LA UNION",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5411",
+        "nombre": "LIBORINA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5425",
+        "nombre": "MACEO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5440",
+        "nombre": "MARINILLA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5001",
+        "nombre": "MEDELLIN",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "5467",
+        "nombre": "MONTEBELLO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5475",
+        "nombre": "MURINDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5480",
+        "nombre": "MUTATA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5483",
+        "nombre": "NARIÑO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5495",
+        "nombre": "NECHI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5490",
+        "nombre": "NECOCLI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5501",
+        "nombre": "OLAYA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5541",
+        "nombre": "PEÑOL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5543",
+        "nombre": "PEQUE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5576",
+        "nombre": "PUEBLORRICO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5579",
+        "nombre": "PUERTO BERRIO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5585",
+        "nombre": "PUERTO NARE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5591",
+        "nombre": "PUERTO TRIUNFO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5604",
+        "nombre": "REMEDIOS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5607",
+        "nombre": "RETIRO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "5615",
+        "nombre": "RIONEGRO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5628",
+        "nombre": "SABANALARGA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5631",
+        "nombre": "SABANETA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5642",
+        "nombre": "SALGAR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5647",
+        "nombre": "SAN ANDRES DE CUERQUIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5649",
+        "nombre": "SAN CARLOS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5652",
+        "nombre": "SAN FRANCISCO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5656",
+        "nombre": "SAN JERONIMO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5658",
+        "nombre": "SAN JOSE DE LA MONTAÑA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5659",
+        "nombre": "SAN JUAN DE URABA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5660",
+        "nombre": "SAN LUIS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5664",
+        "nombre": "SAN PEDRO DE LOS MILAGROS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5665",
+        "nombre": "SAN PEDRO DE URABA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5667",
+        "nombre": "SAN RAFAEL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5670",
+        "nombre": "SAN ROQUE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5674",
+        "nombre": "SAN VICENTE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5679",
+        "nombre": "SANTA BARBARA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5686",
+        "nombre": "SANTA ROSA DE OSOS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5042",
+        "nombre": "SANTAFE DE ANTIOQUIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5690",
+        "nombre": "SANTO DOMINGO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5736",
+        "nombre": "SEGOVIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5756",
+        "nombre": "SONSON",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5761",
+        "nombre": "SOPETRAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5789",
+        "nombre": "TAMESIS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5790",
+        "nombre": "TARAZA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5792",
+        "nombre": "TARSO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5809",
+        "nombre": "TITIRIBI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5819",
+        "nombre": "TOLEDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5837",
+        "nombre": "TURBO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "5842",
+        "nombre": "URAMITA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5847",
+        "nombre": "URRAO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5854",
+        "nombre": "VALDIVIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5856",
+        "nombre": "VALPARAISO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5858",
+        "nombre": "VEGACHI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5861",
+        "nombre": "VENECIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5873",
+        "nombre": "VIGIA DEL FUERTE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5885",
+        "nombre": "YALI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5887",
+        "nombre": "YARUMAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5890",
+        "nombre": "YOLOMBO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5893",
+        "nombre": "YONDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "5895",
+        "nombre": "ZARAGOZA",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {"Departamento": "ARAUCA",
+    "municipios":[
+      {
+        "codigo": "81001",
+        "nombre": "ARAUCA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "81065",
+        "nombre": "ARAUQUITA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "81220",
+        "nombre": "CRAVO NORTE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "81300",
+        "nombre": "FORTUL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "81591",
+        "nombre": "PUERTO RONDON",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "81736",
+        "nombre": "SARAVENA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "81794",
+        "nombre": "TAME",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "SAN ANDRES, PROVIDENCIA Y SANTA CATALINA",
+    "municipios":[
+      {
+        "codigo": "88564",
+        "nombre": "PROVIDENCIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "88001",
+        "nombre": "SAN ANDRES",
+        "tiempo_entrega": "3"
+      }
+    ]
+  },
+  {
+    "Departamento": "ATLANTICO",
+    "municipios":[
+      {
+        "codigo": "8078",
+        "nombre": "BARANOA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "8001",
+        "nombre": "BARRANQUILLA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "8137",
+        "nombre": "CAMPO DE LA CRUZ",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8141",
+        "nombre": "CANDELARIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8296",
+        "nombre": "GALAPA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "8372",
+        "nombre": "JUAN DE ACOSTA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8421",
+        "nombre": "LURUACO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8433",
+        "nombre": "MALAMBO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "8436",
+        "nombre": "MANATI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8520",
+        "nombre": "PALMAR DE VARELA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8549",
+        "nombre": "PIOJO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8558",
+        "nombre": "POLONUEVO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8560",
+        "nombre": "PONEDERA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8573",
+        "nombre": "PUERTO COLOMBIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8606",
+        "nombre": "REPELON",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8634",
+        "nombre": "SABANAGRANDE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8638",
+        "nombre": "SABANALARGA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "8675",
+        "nombre": "SANTA LUCIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8685",
+        "nombre": "SANTO TOMAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8758",
+        "nombre": "SOLEDAD",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "8770",
+        "nombre": "SUAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8832",
+        "nombre": "TUBARA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "8849",
+        "nombre": "USIACURI",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "BOGOTA D.C.",
+    "municipios":[
+      {
+        "codigo": "11001",
+        "nombre": "BOGOTA D.C.",
+        "Departamento": "BOGOTA D.C.",
+        "tiempo_entrega": "2"
+      }
+    ]
+  },
+  {
+    "Departamento": "BOLIVAR",
+    "municipios":[
+      {
+        "codigo": "13006",
+        "nombre": "ACHI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13030",
+        "nombre": "ALTOS DEL ROSARIO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13042",
+        "nombre": "ARENAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13052",
+        "nombre": "ARJONA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13062",
+        "nombre": "ARROYOHONDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13074",
+        "nombre": "BARRANCO DE LOBA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13140",
+        "nombre": "CALAMAR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13160",
+        "nombre": "CANTAGALLO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13244",
+        "nombre": "CARMEN DE BOLIVAR",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "13001",
+        "nombre": "CARTAGENA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "13188",
+        "nombre": "CICUCO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13222",
+        "nombre": "CLEMENCIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13212",
+        "nombre": "CORDOBA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13248",
+        "nombre": "EL GUAMO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13268",
+        "nombre": "EL PEÑON",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13300",
+        "nombre": "HATILLO DE LOBA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13430",
+        "nombre": "MAGANGUE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "13433",
+        "nombre": "MAHATES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13440",
+        "nombre": "MARGARITA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13442",
+        "nombre": "MARIA LA BAJA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13468",
+        "nombre": "MOMPOS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13458",
+        "nombre": "MONTECRISTO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13473",
+        "nombre": "MORALES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13490",
+        "nombre": "NOROSI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13549",
+        "nombre": "PINILLOS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13580",
+        "nombre": "REGIDOR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13600",
+        "nombre": "RIO VIEJO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13620",
+        "nombre": "SAN CRISTOBAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13647",
+        "nombre": "SAN ESTANISLAO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13650",
+        "nombre": "SAN FERNANDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13654",
+        "nombre": "SAN JACINTO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13655",
+        "nombre": "SAN JACINTO DEL CAUCA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13657",
+        "nombre": "SAN JUAN NEPOMUCENO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13667",
+        "nombre": "SAN MARTIN DE LOBA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13670",
+        "nombre": "SAN PABLO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13673",
+        "nombre": "SANTA CATALINA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13683",
+        "nombre": "SANTA ROSA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13688",
+        "nombre": "SANTA ROSA DEL SUR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13744",
+        "nombre": "SIMITI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13760",
+        "nombre": "SOPLAVIENTO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13780",
+        "nombre": "TALAIGUA NUEVO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13810",
+        "nombre": "TIQUISIO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13836",
+        "nombre": "TURBACO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13838",
+        "nombre": "TURBANA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13873",
+        "nombre": "VILLANUEVA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "13894",
+        "nombre": "ZAMBRANO",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "BOYACA",
+    "municipios":[
+      {
+        "codigo": "15022",
+        "nombre": "ALMEIDA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15047",
+        "nombre": "AQUITANIA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15051",
+        "nombre": "ARCABUCO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15087",
+        "nombre": "BELEN",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15090",
+        "nombre": "BERBEO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15092",
+        "nombre": "BETEITIVA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15097",
+        "nombre": "BOAVITA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15104",
+        "nombre": "BOYACA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15106",
+        "nombre": "BRICEÑO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15109",
+        "nombre": "BUENAVISTA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15114",
+        "nombre": "BUSBANZA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15131",
+        "nombre": "CALDAS",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15135",
+        "nombre": "CAMPOHERMOSO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15162",
+        "nombre": "CERINZA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15172",
+        "nombre": "CHINAVITA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15176",
+        "nombre": "CHIQUINQUIRA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "15232",
+        "nombre": "CHIQUIZA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15180",
+        "nombre": "CHISCAS",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15183",
+        "nombre": "CHITA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15185",
+        "nombre": "CHITARAQUE",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15187",
+        "nombre": "CHIVATA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15236",
+        "nombre": "CHIVOR",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15189",
+        "nombre": "CIENEGA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15204",
+        "nombre": "COMBITA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15212",
+        "nombre": "COPER",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15215",
+        "nombre": "CORRALES",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15218",
+        "nombre": "COVARACHIA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15223",
+        "nombre": "CUBARA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15224",
+        "nombre": "CUCAITA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15226",
+        "nombre": "CUITIVA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15238",
+        "nombre": "DUITAMA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "15244",
+        "nombre": "EL COCUY",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15248",
+        "nombre": "EL ESPINO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15272",
+        "nombre": "FIRAVITOBA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15276",
+        "nombre": "FLORESTA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15293",
+        "nombre": "GACHANTIVA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15296",
+        "nombre": "GAMEZA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15299",
+        "nombre": "GARAGOA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "15317",
+        "nombre": "GUACAMAYAS",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15322",
+        "nombre": "GUATEQUE",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15325",
+        "nombre": "GUAYATA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15332",
+        "nombre": "GUICAN",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15362",
+        "nombre": "IZA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15367",
+        "nombre": "JENESANO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15368",
+        "nombre": "JERICO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15380",
+        "nombre": "LA CAPILLA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15403",
+        "nombre": "LA UVITA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15401",
+        "nombre": "LA VICTORIA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15377",
+        "nombre": "LABRANZAGRANDE",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15425",
+        "nombre": "MACANAL",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15442",
+        "nombre": "MARIPI",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15455",
+        "nombre": "MIRAFLORES",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15464",
+        "nombre": "MONGUA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15466",
+        "nombre": "MONGUI",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15469",
+        "nombre": "MONIQUIRA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15476",
+        "nombre": "MOTAVITA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15480",
+        "nombre": "MUZO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15491",
+        "nombre": "NOBSA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15494",
+        "nombre": "NUEVO COLON",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15500",
+        "nombre": "OICATA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15507",
+        "nombre": "OTANCHE",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15511",
+        "nombre": "PACHAVITA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15514",
+        "nombre": "PAEZ",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15516",
+        "nombre": "PAIPA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "15518",
+        "nombre": "PAJARITO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15522",
+        "nombre": "PANQUEBA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15531",
+        "nombre": "PAUNA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15533",
+        "nombre": "PAYA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15537",
+        "nombre": "PAZ DE RIO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15542",
+        "nombre": "PESCA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15550",
+        "nombre": "PISBA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15572",
+        "nombre": "PUERTO BOYACA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15580",
+        "nombre": "QUIPAMA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15599",
+        "nombre": "RAMIRIQUI",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15600",
+        "nombre": "RAQUIRA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15621",
+        "nombre": "RONDON",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15632",
+        "nombre": "SABOYA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15638",
+        "nombre": "SACHICA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15646",
+        "nombre": "SAMACA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15660",
+        "nombre": "SAN EDUARDO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15664",
+        "nombre": "SAN JOSE DE PARE",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15667",
+        "nombre": "SAN LUIS DE GACENO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15673",
+        "nombre": "SAN MATEO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15676",
+        "nombre": "SAN MIGUEL DE SEMA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15681",
+        "nombre": "SAN PABLO DE BORBUR",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15690",
+        "nombre": "SANTA MARIA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15693",
+        "nombre": "SANTA ROSA DE VITERBO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15696",
+        "nombre": "SANTA SOFIA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15686",
+        "nombre": "SANTANA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15720",
+        "nombre": "SATIVANORTE",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15723",
+        "nombre": "SATIVASUR",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15740",
+        "nombre": "SIACHOQUE",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15753",
+        "nombre": "SOATA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15757",
+        "nombre": "SOCHA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15755",
+        "nombre": "SOCOTA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15759",
+        "nombre": "SOGAMOSO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "15761",
+        "nombre": "SOMONDOCO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15762",
+        "nombre": "SORA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15764",
+        "nombre": "SORACA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15763",
+        "nombre": "SOTAQUIRA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15774",
+        "nombre": "SUSACON",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15776",
+        "nombre": "SUTAMARCHAN",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15778",
+        "nombre": "SUTATENZA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15790",
+        "nombre": "TASCO",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15798",
+        "nombre": "TENZA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "15804",
+        "nombre": "TIBANA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15806",
+        "nombre": "TIBASOSA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15808",
+        "nombre": "TINJACA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15810",
+        "nombre": "TIPACOQUE",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15814",
+        "nombre": "TOCA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15816",
+        "nombre": "TOGUI",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15820",
+        "nombre": "TOPAGA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15822",
+        "nombre": "TOTA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15001",
+        "nombre": "TUNJA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "15832",
+        "nombre": "TUNUNGUA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15835",
+        "nombre": "TURMEQUE",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15837",
+        "nombre": "TUTA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15839",
+        "nombre": "TUTAZA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15842",
+        "nombre": "UMBITA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15861",
+        "nombre": "VENTAQUEMADA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15407",
+        "nombre": "VILLA DE LEYVA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "15879",
+        "nombre": "VIRACACHA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "15897",
+        "nombre": "ZETAQUIRA",
+        "Departamento": "BOYACA",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "CALDAS",
+    "municipios":[
+      {
+        "codigo": "17013",
+        "nombre": "AGUADAS",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17042",
+        "nombre": "ANSERMA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17050",
+        "nombre": "ARANZAZU",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17088",
+        "nombre": "BELALCAZAR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "17174",
+        "nombre": "CHINCHINA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17272",
+        "nombre": "FILADELFIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17380",
+        "nombre": "LA DORADA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "17388",
+        "nombre": "LA MERCED",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17001",
+        "nombre": "MANIZALES",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "17433",
+        "nombre": "MANZANARES",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17442",
+        "nombre": "MARMATO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17444",
+        "nombre": "MARQUETALIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17446",
+        "nombre": "MARULANDA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17486",
+        "nombre": "NEIRA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17495",
+        "nombre": "NORCASIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "17513",
+        "nombre": "PACORA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17524",
+        "nombre": "PALESTINA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "17541",
+        "nombre": "PENSILVANIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17614",
+        "nombre": "RIOSUCIO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17616",
+        "nombre": "RISARALDA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "17653",
+        "nombre": "SALAMINA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17662",
+        "nombre": "SAMANA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "17665",
+        "nombre": "SAN JOSE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "17777",
+        "nombre": "SUPIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17867",
+        "nombre": "VICTORIA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "17873",
+        "nombre": "VILLAMARIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "17877",
+        "nombre": "VITERBO",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "CAQUETA",
+    "municipios":[
+      {
+        "codigo": "18029",
+        "nombre": "ALBANIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "18094",
+        "nombre": "BELEN DE LOS ANDAQUIES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "18150",
+        "nombre": "CARTAGENA DEL CHAIRA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "18205",
+        "nombre": "CURILLO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "18247",
+        "nombre": "EL DONCELLO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "18256",
+        "nombre": "EL PAUJIL",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "18001",
+        "nombre": "FLORENCIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "18410",
+        "nombre": "LA MONTAÑITA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "18460",
+        "nombre": "MILAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "18479",
+        "nombre": "MORELIA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "18592",
+        "nombre": "PUERTO RICO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "18610",
+        "nombre": "SAN JOSE DEL FRAGUA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "18753",
+        "nombre": "SAN VICENTE DEL CAGUAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "18756",
+        "nombre": "SOLANO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "18785",
+        "nombre": "SOLITA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "18860",
+        "nombre": "VALPARAISO",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "CASANARE",
+    "municipios":[
+      {
+        "codigo": "85010",
+        "nombre": "AGUAZUL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85015",
+        "nombre": "CHAMEZA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85125",
+        "nombre": "HATO COROZAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85136",
+        "nombre": "LA SALINA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85139",
+        "nombre": "MANI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85162",
+        "nombre": "MONTERREY",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85225",
+        "nombre": "NUNCHIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85230",
+        "nombre": "OROCUE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85250",
+        "nombre": "PAZ DE ARIPORO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "85263",
+        "nombre": "PORE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85279",
+        "nombre": "RECETOR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85300",
+        "nombre": "SABANALARGA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85315",
+        "nombre": "SACAMA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85325",
+        "nombre": "SAN LUIS DE PALENQUE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85400",
+        "nombre": "TAMARA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85410",
+        "nombre": "TAURAMENA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85430",
+        "nombre": "TRINIDAD",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85440",
+        "nombre": "VILLANUEVA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "85001",
+        "nombre": "YOPAL",
+        "tiempo_entrega": "3"
+      }
+    ]
+  },
+  {
+    "Departamento": "CAUCA",
+    "municipios":[
+      {
+        "codigo": "19022",
+        "nombre": "ALMAGUER",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19050",
+        "nombre": "ARGELIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19075",
+        "nombre": "BALBOA",
+        "Departamento": "",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19100",
+        "nombre": "BOLIVAR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19110",
+        "nombre": "BUENOS AIRES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19130",
+        "nombre": "CAJIBIO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19137",
+        "nombre": "CALDONO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19142",
+        "nombre": "CALOTO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19212",
+        "nombre": "CORINTO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "19256",
+        "nombre": "EL TAMBO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19290",
+        "nombre": "FLORENCIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "19300",
+        "nombre": "GUACHENE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19318",
+        "nombre": "GUAPI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19355",
+        "nombre": "INZA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19364",
+        "nombre": "JAMBALO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19392",
+        "nombre": "LA SIERRA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19397",
+        "nombre": "LA VEGA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19418",
+        "nombre": "LOPEZ DE MICAY",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19450",
+        "nombre": "MERCADERES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19455",
+        "nombre": "MIRANDA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "19473",
+        "nombre": "MORALES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19513",
+        "nombre": "PADILLA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19517",
+        "nombre": "PAEZ",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19532",
+        "nombre": "PATIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19533",
+        "nombre": "PIAMONTE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19548",
+        "nombre": "PIENDAMO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19001",
+        "nombre": "POPAYAN",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "19573",
+        "nombre": "PUERTO TEJADA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "19585",
+        "nombre": "PURACE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19622",
+        "nombre": "ROSAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19693",
+        "nombre": "SAN SEBASTIAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19701",
+        "nombre": "SANTA ROSA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19698",
+        "nombre": "SANTANDER DE QUILICHAO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "19743",
+        "nombre": "SILVIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19760",
+        "nombre": "SOTARA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19780",
+        "nombre": "SUAREZ",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19785",
+        "nombre": "SUCRE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19807",
+        "nombre": "TIMBIO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19809",
+        "nombre": "TIMBIQUI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19821",
+        "nombre": "TORIBIO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19824",
+        "nombre": "TOTORO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "19845",
+        "nombre": "VILLA RICA",
+        "tiempo_entrega": "4"
+      }
+    ]
+  },
+  {
+    "Departamento": "CHOCO",
+    "municipios":[
+      {
+        "codigo": "27006",
+        "nombre": "ACANDI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27025",
+        "nombre": "ALTO BAUDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27050",
+        "nombre": "ATRATO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27073",
+        "nombre": "BAGADO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27075",
+        "nombre": "BAHIA SOLANO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27077",
+        "nombre": "BAJO BAUDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27099",
+        "nombre": "BOJAYA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27150",
+        "nombre": "CARMEN DEL DARIEN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27160",
+        "nombre": "CERTEGUI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27205",
+        "nombre": "CONDOTO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27135",
+        "nombre": "EL CANTON DEL SAN PABLO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27245",
+        "nombre": "EL CARMEN DE ATRATO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27250",
+        "nombre": "EL LITORAL DEL SAN JUAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27361",
+        "nombre": "ISTMINA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27372",
+        "nombre": "JURADO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27413",
+        "nombre": "LLORO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27425",
+        "nombre": "MEDIO ATRATO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27430",
+        "nombre": "MEDIO BAUDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27450",
+        "nombre": "MEDIO SAN JUAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27491",
+        "nombre": "NOVITA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27495",
+        "nombre": "NUQUI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27001",
+        "nombre": "QUIBDO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "27580",
+        "nombre": "RIO IRO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27600",
+        "nombre": "RIO QUITO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27615",
+        "nombre": "RIOSUCIO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27660",
+        "nombre": "SAN JOSE DEL PALMAR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27745",
+        "nombre": "SIPI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27787",
+        "nombre": "TADO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27800",
+        "nombre": "UNGUIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "27810",
+        "nombre": "UNION PANAMERICANA",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "CORDOBA",
+    "municipios":[
+      {
+        "codigo": "23068",
+        "nombre": "AYAPEL",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23079",
+        "nombre": "BUENAVISTA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23090",
+        "nombre": "CANALETE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "23162",
+        "nombre": "CERETE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23168",
+        "nombre": "CHIMA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23182",
+        "nombre": "CHINU",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23189",
+        "nombre": "CIENAGA DE ORO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23300",
+        "nombre": "COTORRA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "23350",
+        "nombre": "LA APARTADA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23417",
+        "nombre": "LORICA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23419",
+        "nombre": "LOS CORDOBAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "23464",
+        "nombre": "MOMIL",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23466",
+        "nombre": "MONTELIBANO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23001",
+        "nombre": "MONTERIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23500",
+        "nombre": "MOÑITOS",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23555",
+        "nombre": "PLANETA RICA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23570",
+        "nombre": "PUEBLO NUEVO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "23574",
+        "nombre": "PUERTO ESCONDIDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "23580",
+        "nombre": "PUERTO LIBERTADOR",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "23586",
+        "nombre": "PURISIMA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23660",
+        "nombre": "SAHAGUN",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23670",
+        "nombre": "SAN ANDRES SOTAVENTO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23672",
+        "nombre": "SAN ANTERO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "23675",
+        "nombre": "SAN BERNARDO DEL VIENTO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "23678",
+        "nombre": "SAN CARLOS",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "23682",
+        "nombre": "SAN JOSE DE URE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "23686",
+        "nombre": "SAN PELAYO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23807",
+        "nombre": "TIERRALTA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23815",
+        "nombre": "TUCHIN",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "23855",
+        "nombre": "VALENCIA",
+        "tiempo_entrega": "3"
+      }
+    ]
+  },
+  {
+    "Departamento": "CUNDINAMARCA",
+    "municipios":[
+      {
+        "codigo": "25001",
+        "nombre": "AGUA DE DIOS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25019",
+        "nombre": "ALBAN",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25035",
+        "nombre": "ANAPOIMA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25040",
+        "nombre": "ANOLAIMA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25599",
+        "nombre": "APULO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25053",
+        "nombre": "ARBELAEZ",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "25086",
+        "nombre": "BELTRAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25095",
+        "nombre": "BITUIMA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25099",
+        "nombre": "BOJACA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25120",
+        "nombre": "CABRERA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25123",
+        "nombre": "CACHIPAY",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25126",
+        "nombre": "CAJICA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25148",
+        "nombre": "CAPARRAPI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25151",
+        "nombre": "CAQUEZA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25154",
+        "nombre": "CARMEN DE CARUPA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25168",
+        "nombre": "CHAGUANI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25175",
+        "nombre": "CHIA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25178",
+        "nombre": "CHIPAQUE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25181",
+        "nombre": "CHOACHI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25183",
+        "nombre": "CHOCONTA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25200",
+        "nombre": "COGUA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25214",
+        "nombre": "COTA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25224",
+        "nombre": "CUCUNUBA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25245",
+        "nombre": "EL COLEGIO",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25258",
+        "nombre": "EL PEÑON",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25260",
+        "nombre": "EL ROSAL",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25269",
+        "nombre": "FACATATIVA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25279",
+        "nombre": "FOMEQUE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25281",
+        "nombre": "FOSCA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25286",
+        "nombre": "FUNZA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25288",
+        "nombre": "FUQUENE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25290",
+        "nombre": "FUSAGASUGA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25293",
+        "nombre": "GACHALA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25295",
+        "nombre": "GACHANCIPA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25297",
+        "nombre": "GACHETA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25299",
+        "nombre": "GAMA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25307",
+        "nombre": "GIRARDOT",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25312",
+        "nombre": "GRANADA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "25317",
+        "nombre": "GUACHETA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25320",
+        "nombre": "GUADUAS",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "25322",
+        "nombre": "GUASCA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25324",
+        "nombre": "GUATAQUI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25326",
+        "nombre": "GUATAVITA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25328",
+        "nombre": "GUAYABAL DE SIQUIMA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25335",
+        "nombre": "GUAYABETAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25339",
+        "nombre": "GUTIERREZ",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25368",
+        "nombre": "JERUSALEN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25372",
+        "nombre": "JUNIN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25377",
+        "nombre": "LA CALERA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25386",
+        "nombre": "LA MESA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25394",
+        "nombre": "LA PALMA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25398",
+        "nombre": "LA PEÑA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25402",
+        "nombre": "LA VEGA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25407",
+        "nombre": "LENGUAZAQUE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25426",
+        "nombre": "MACHETA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25430",
+        "nombre": "MADRID",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25436",
+        "nombre": "MANTA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25438",
+        "nombre": "MEDINA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25473",
+        "nombre": "MOSQUERA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25483",
+        "nombre": "NARIÑO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25486",
+        "nombre": "NEMOCON",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25488",
+        "nombre": "NILO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25489",
+        "nombre": "NIMAIMA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25491",
+        "nombre": "NOCAIMA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25513",
+        "nombre": "PACHO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25518",
+        "nombre": "PAIME",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25524",
+        "nombre": "PANDI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25530",
+        "nombre": "PARATEBUENO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25535",
+        "nombre": "PASCA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25572",
+        "nombre": "PUERTO SALGAR",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25580",
+        "nombre": "PULI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25592",
+        "nombre": "QUEBRADANEGRA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25594",
+        "nombre": "QUETAME",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25596",
+        "nombre": "QUIPILE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25612",
+        "nombre": "RICAURTE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25645",
+        "nombre": "SAN ANTONIO DEL TEQUENDAMA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25649",
+        "nombre": "SAN BERNARDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25653",
+        "nombre": "SAN CAYETANO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25658",
+        "nombre": "SAN FRANCISCO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25662",
+        "nombre": "SAN JUAN DE RIO SECO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25718",
+        "nombre": "SASAIMA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25736",
+        "nombre": "SESQUILE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25740",
+        "nombre": "SIBATE",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25743",
+        "nombre": "SILVANIA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "25745",
+        "nombre": "SIMIJACA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25754",
+        "nombre": "SOACHA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25758",
+        "nombre": "SOPO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25769",
+        "nombre": "SUBACHOQUE",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25772",
+        "nombre": "SUESCA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25777",
+        "nombre": "SUPATA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25779",
+        "nombre": "SUSA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25781",
+        "nombre": "SUTATAUSA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25785",
+        "nombre": "TABIO",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25793",
+        "nombre": "TAUSA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25797",
+        "nombre": "TENA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25799",
+        "nombre": "TENJO",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25805",
+        "nombre": "TIBACUY",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25807",
+        "nombre": "TIBIRITA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25815",
+        "nombre": "TOCAIMA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "25817",
+        "nombre": "TOCANCIPA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "25823",
+        "nombre": "TOPAIPI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25839",
+        "nombre": "UBALA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25841",
+        "nombre": "UBAQUE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25845",
+        "nombre": "UNE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25851",
+        "nombre": "UTICA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25506",
+        "nombre": "VENECIA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "25862",
+        "nombre": "VERGARA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25867",
+        "nombre": "VIANI",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25843",
+        "nombre": "VILLA DE SAN DIEGO DE UBATE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25871",
+        "nombre": "VILLAGOMEZ",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25873",
+        "nombre": "VILLAPINZON",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25875",
+        "nombre": "VILLETA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25878",
+        "nombre": "VIOTA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25885",
+        "nombre": "YACOPI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "25898",
+        "nombre": "ZIPACON",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "25899",
+        "nombre": "ZIPAQUIRA",
+        "tiempo_entrega": "2"
+      }
+    ]
+  },
+  {
+    "Departamento": "GUAINIA",
+    "municipios":[
+      {
+        "codigo": "94343",
+        "nombre": "BARRANCO MINAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "94886",
+        "nombre": "CACAHUAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "94001",
+        "nombre": "INIRIDA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "94885",
+        "nombre": "LA GUADALUPE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "94663",
+        "nombre": "MAPIRIPANA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "94888",
+        "nombre": "MORICHAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "94887",
+        "nombre": "PANA PANA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "94884",
+        "nombre": "PUERTO COLOMBIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "94883",
+        "nombre": "SAN FELIPE",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "GUAVIARE",
+    "municipios":[
+      {
+        "codigo": "95015",
+        "nombre": "CALAMAR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "95025",
+        "nombre": "EL RETORNO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "95200",
+        "nombre": "MIRAFLORES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "95001",
+        "nombre": "SAN JOSE DEL GUAVIARE",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "HUILA",
+    "municipios":[
+      {
+        "codigo": "41006",
+        "nombre": "ACEVEDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41013",
+        "nombre": "AGRADO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41016",
+        "nombre": "AIPE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41020",
+        "nombre": "ALGECIRAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41026",
+        "nombre": "ALTAMIRA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41078",
+        "nombre": "BARAYA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41132",
+        "nombre": "CAMPOALEGRE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41206",
+        "nombre": "COLOMBIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41244",
+        "nombre": "ELIAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41298",
+        "nombre": "GARZON",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "41306",
+        "nombre": "GIGANTE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "41319",
+        "nombre": "GUADALUPE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41349",
+        "nombre": "HOBO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41357",
+        "nombre": "IQUIRA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41359",
+        "nombre": "ISNOS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41378",
+        "nombre": "LA ARGENTINA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41396",
+        "nombre": "LA PLATA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41483",
+        "nombre": "NATAGA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41001",
+        "nombre": "NEIVA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "41503",
+        "nombre": "OPORAPA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41518",
+        "nombre": "PAICOL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41524",
+        "nombre": "PALERMO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41530",
+        "nombre": "PALESTINA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41548",
+        "nombre": "PITAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41551",
+        "nombre": "PITALITO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "41615",
+        "nombre": "RIVERA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41660",
+        "nombre": "SALADOBLANCO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41668",
+        "nombre": "SAN AGUSTIN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41676",
+        "nombre": "SANTA MARIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41770",
+        "nombre": "SUAZA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41791",
+        "nombre": "TARQUI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41799",
+        "nombre": "TELLO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41801",
+        "nombre": "TERUEL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41797",
+        "nombre": "TESALIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41807",
+        "nombre": "TIMANA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41872",
+        "nombre": "VILLAVIEJA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "41885",
+        "nombre": "YAGUARA",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "LA GUAJIRA",
+    "municipios":[
+      {
+        "codigo": "44035",
+        "nombre": "ALBANIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "44078",
+        "nombre": "BARRANCAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "44090",
+        "nombre": "DIBULLA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "44098",
+        "nombre": "DISTRACCION",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "44110",
+        "nombre": "EL MOLINO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "44279",
+        "nombre": "FONSECA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "44378",
+        "nombre": "HATONUEVO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "44420",
+        "nombre": "LA JAGUA DEL PILAR",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "44430",
+        "nombre": "MAICAO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "44560",
+        "nombre": "MANAURE",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "44001",
+        "nombre": "RIOHACHA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "44650",
+        "nombre": "SAN JUAN DEL CESAR",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "44847",
+        "nombre": "URIBIA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "44855",
+        "nombre": "URUMITA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "44874",
+        "nombre": "VILLANUEVA",
+        "tiempo_entrega": "4"
+      }
+    ]
+  },
+  {
+    "Departamento": "MAGDALENA",
+    "municipios":[
+      {
+        "codigo": "47030",
+        "nombre": "ALGARROBO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47053",
+        "nombre": "ARACATACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47058",
+        "nombre": "ARIGUANI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47161",
+        "nombre": "CERRO SAN ANTONIO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47170",
+        "nombre": "CHIBOLO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47189",
+        "nombre": "CIENAGA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "47205",
+        "nombre": "CONCORDIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47245",
+        "nombre": "EL BANCO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47258",
+        "nombre": "EL PIÑON",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47268",
+        "nombre": "EL RETEN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47288",
+        "nombre": "FUNDACION",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "47318",
+        "nombre": "GUAMAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47460",
+        "nombre": "NUEVA GRANADA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47541",
+        "nombre": "PEDRAZA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47545",
+        "nombre": "PIJIÑO DEL CARMEN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47551",
+        "nombre": "PIVIJAY",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47555",
+        "nombre": "PLATO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47570",
+        "nombre": "PUEBLOVIEJO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47605",
+        "nombre": "REMOLINO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47660",
+        "nombre": "SABANAS DE SAN ANGEL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47675",
+        "nombre": "SALAMINA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47692",
+        "nombre": "SAN SEBASTIAN DE BUENAVISTA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47703",
+        "nombre": "SAN ZENON",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47707",
+        "nombre": "SANTA ANA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47720",
+        "nombre": "SANTA BARBARA DE PINTO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47001",
+        "nombre": "SANTA MARTA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "47745",
+        "nombre": "SITIONUEVO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47798",
+        "nombre": "TENERIFE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47960",
+        "nombre": "ZAPAYAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "47980",
+        "nombre": "ZONA BANANERA",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "META",
+    "municipios":[
+      {
+        "codigo": "50006",
+        "nombre": "ACACIAS",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "50110",
+        "nombre": "BARRANCA DE UPIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50124",
+        "nombre": "CABUYARO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50150",
+        "nombre": "CASTILLA LA NUEVA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50223",
+        "nombre": "CUBARRAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50226",
+        "nombre": "CUMARAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50245",
+        "nombre": "EL CALVARIO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50251",
+        "nombre": "EL CASTILLO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50270",
+        "nombre": "EL DORADO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50287",
+        "nombre": "FUENTE DE ORO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50313",
+        "nombre": "GRANADA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "50318",
+        "nombre": "GUAMAL",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "50350",
+        "nombre": "LA MACARENA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50400",
+        "nombre": "LEJANIAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50325",
+        "nombre": "MAPIRIPAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50330",
+        "nombre": "MESETAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50450",
+        "nombre": "PUERTO CONCORDIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50568",
+        "nombre": "PUERTO GAITAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50577",
+        "nombre": "PUERTO LLERAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50573",
+        "nombre": "PUERTO LOPEZ",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50590",
+        "nombre": "PUERTO RICO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50606",
+        "nombre": "RESTREPO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50680",
+        "nombre": "SAN CARLOS DE GUAROA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50683",
+        "nombre": "SAN JUAN DE ARAMA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50686",
+        "nombre": "SAN JUANITO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50689",
+        "nombre": "SAN MARTIN",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "50370",
+        "nombre": "URIBE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "50001",
+        "nombre": "VILLAVICENCIO",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "50711",
+        "nombre": "VISTAHERMOSA",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "NARIÑO",
+    "municipios":[
+      {
+        "codigo": "52019",
+        "nombre": "ALBAN",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52022",
+        "nombre": "ALDANA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52036",
+        "nombre": "ANCUYA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52051",
+        "nombre": "ARBOLEDA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52079",
+        "nombre": "BARBACOAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "52083",
+        "nombre": "BELEN",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52110",
+        "nombre": "BUESACO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52240",
+        "nombre": "CHACHAGUI",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52203",
+        "nombre": "COLON",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52207",
+        "nombre": "CONSACA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52210",
+        "nombre": "CONTADERO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52215",
+        "nombre": "CORDOBA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52224",
+        "nombre": "CUASPUD",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52227",
+        "nombre": "CUMBAL",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52233",
+        "nombre": "CUMBITARA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52250",
+        "nombre": "EL CHARCO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "52254",
+        "nombre": "EL PEÑOL",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52256",
+        "nombre": "EL ROSARIO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52258",
+        "nombre": "EL TABLON DE GOMEZ",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52260",
+        "nombre": "EL TAMBO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52520",
+        "nombre": "FRANCISCO PIZARRO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "52287",
+        "nombre": "FUNES",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52317",
+        "nombre": "GUACHUCAL",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52320",
+        "nombre": "GUAITARILLA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52323",
+        "nombre": "GUALMATAN",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52352",
+        "nombre": "ILES",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52354",
+        "nombre": "IMUES",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52356",
+        "nombre": "IPIALES",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52378",
+        "nombre": "LA CRUZ",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52381",
+        "nombre": "LA FLORIDA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52385",
+        "nombre": "LA LLANADA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52390",
+        "nombre": "LA TOLA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "52399",
+        "nombre": "LA UNION",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52405",
+        "nombre": "LEIVA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52411",
+        "nombre": "LINARES",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52418",
+        "nombre": "LOS ANDES SOTO MAYOR",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52427",
+        "nombre": "MAGUI PAYAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "52435",
+        "nombre": "MALLAMA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52473",
+        "nombre": "MOSQUERA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "52480",
+        "nombre": "NARIÑO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52490",
+        "nombre": "OLAYA HERRERA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "52506",
+        "nombre": "OSPINA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52001",
+        "nombre": "PASTO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52540",
+        "nombre": "POLICARPA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52560",
+        "nombre": "POTOSI",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52565",
+        "nombre": "PROVIDENCIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52573",
+        "nombre": "PUERRES",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52585",
+        "nombre": "PUPIALES",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52612",
+        "nombre": "RICAURTE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52621",
+        "nombre": "ROBERTO PAYAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "52678",
+        "nombre": "SAMANIEGO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52685",
+        "nombre": "SAN BERNARDO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52687",
+        "nombre": "SAN LORENZO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52693",
+        "nombre": "SAN PABLO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52694",
+        "nombre": "SAN PEDRO DE CARTAGO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52683",
+        "nombre": "SANDONA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52696",
+        "nombre": "SANTA BARBARA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "52699",
+        "nombre": "SANTACRUZ",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52720",
+        "nombre": "SAPUYES",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52786",
+        "nombre": "TAMINANGO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52788",
+        "nombre": "TANGUA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52835",
+        "nombre": "TUMACO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52838",
+        "nombre": "TUQUERRES",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "52885",
+        "nombre": "YACUANQUER",
+        "tiempo_entrega": "3"
+      }
+    ]
+  },
+  {
+    "Departamento": "NORTE DE SANTANDER",
+    "municipios":[
+      {
+        "codigo": "54003",
+        "nombre": "ABREGO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54051",
+        "nombre": "ARBOLEDAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54099",
+        "nombre": "BOCHALEMA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "54109",
+        "nombre": "BUCARASICA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54128",
+        "nombre": "CACHIRA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54125",
+        "nombre": "CACOTA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54172",
+        "nombre": "CHINACOTA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54174",
+        "nombre": "CHITAGA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54206",
+        "nombre": "CONVENCION",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54001",
+        "nombre": "CUCUTA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "54223",
+        "nombre": "CUCUTILLA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54239",
+        "nombre": "DURANIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54245",
+        "nombre": "EL CARMEN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54250",
+        "nombre": "EL TARRA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54261",
+        "nombre": "EL ZULIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54313",
+        "nombre": "GRAMALOTE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54344",
+        "nombre": "HACARI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54347",
+        "nombre": "HERRAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54385",
+        "nombre": "LA ESPERANZA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54398",
+        "nombre": "LA PLAYA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54377",
+        "nombre": "LABATECA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54405",
+        "nombre": "LOS PATIOS",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "54418",
+        "nombre": "LOURDES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54480",
+        "nombre": "MUTISCUA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54498",
+        "nombre": "OCAÑA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "54518",
+        "nombre": "PAMPLONA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "54520",
+        "nombre": "PAMPLONITA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "54553",
+        "nombre": "PUERTO SANTANDER",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54599",
+        "nombre": "RAGONVALIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54660",
+        "nombre": "SALAZAR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54670",
+        "nombre": "SAN CALIXTO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54673",
+        "nombre": "SAN CAYETANO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54680",
+        "nombre": "SANTIAGO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54720",
+        "nombre": "SARDINATA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54743",
+        "nombre": "SILOS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54800",
+        "nombre": "TEORAMA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54810",
+        "nombre": "TIBU",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "54820",
+        "nombre": "TOLEDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54871",
+        "nombre": "VILLA CARO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "54874",
+        "nombre": "VILLA DEL ROSARIO",
+        "tiempo_entrega": "3"
+      }
+    ]
+  },
+  {
+    "Departamento": "PUTUMAYO",
+    "municipios":[
+      {
+        "codigo": "86219",
+        "nombre": "COLON",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "86001",
+        "nombre": "MOCOA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "86320",
+        "nombre": "ORITO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "86568",
+        "nombre": "PUERTO ASIS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "86569",
+        "nombre": "PUERTO CAICEDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "86571",
+        "nombre": "PUERTO GUZMAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "86573",
+        "nombre": "PUERTO LEGUIZAMO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "86755",
+        "nombre": "SAN FRANCISCO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "86757",
+        "nombre": "SAN MIGUEL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "86760",
+        "nombre": "SANTIAGO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "86749",
+        "nombre": "SIBUNDOY",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "86865",
+        "nombre": "VALLE DEL GUAMUEZ",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "86885",
+        "nombre": "VILLAGARZON",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "QUINDIO",
+    "municipios":[
+      {
+        "codigo": "63001",
+        "nombre": "ARMENIA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "63111",
+        "nombre": "BUENAVISTA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "63130",
+        "nombre": "CALARCA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "63190",
+        "nombre": "CIRCASIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "63212",
+        "nombre": "CORDOBA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "63272",
+        "nombre": "FILANDIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "63302",
+        "nombre": "GENOVA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "63401",
+        "nombre": "LA TEBAIDA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "63470",
+        "nombre": "MONTENEGRO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "63548",
+        "nombre": "PIJAO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "63594",
+        "nombre": "QUIMBAYA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "63690",
+        "nombre": "SALENTO",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "RISARALDA",
+    "municipios":[
+      {
+        "codigo": "66045",
+        "nombre": "APIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "66075",
+        "nombre": "BALBOA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "66088",
+        "nombre": "BELEN DE UMBRIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "66170",
+        "nombre": "DOSQUEBRADAS",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "66318",
+        "nombre": "GUATICA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "66383",
+        "nombre": "LA CELIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "66400",
+        "nombre": "LA VIRGINIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "66440",
+        "nombre": "MARSELLA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "66456",
+        "nombre": "MISTRATO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "66001",
+        "nombre": "PEREIRA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "66572",
+        "nombre": "PUEBLO RICO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "66594",
+        "nombre": "QUINCHIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "66682",
+        "nombre": "SANTA ROSA DE CABAL",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "66687",
+        "nombre": "SANTUARIO",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "SANTANDER",
+    "municipios":[
+      {
+        "codigo": "68013",
+        "nombre": "AGUADA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68020",
+        "nombre": "ALBANIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68051",
+        "nombre": "ARATOCA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68077",
+        "nombre": "BARBOSA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "68079",
+        "nombre": "BARICHARA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68081",
+        "nombre": "BARRANCABERMEJA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "68092",
+        "nombre": "BETULIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68101",
+        "nombre": "BOLIVAR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68001",
+        "nombre": "BUCARAMANGA",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "68121",
+        "nombre": "CABRERA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68132",
+        "nombre": "CALIFORNIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68147",
+        "nombre": "CAPITANEJO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68152",
+        "nombre": "CARCASI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68160",
+        "nombre": "CEPITA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68162",
+        "nombre": "CERRITO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68167",
+        "nombre": "CHARALA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68169",
+        "nombre": "CHARTA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68176",
+        "nombre": "CHIMA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68179",
+        "nombre": "CHIPATA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68190",
+        "nombre": "CIMITARRA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "68207",
+        "nombre": "CONCEPCION",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68209",
+        "nombre": "CONFINES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68211",
+        "nombre": "CONTRATACION",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68217",
+        "nombre": "COROMORO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68229",
+        "nombre": "CURITI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68235",
+        "nombre": "EL CARMEN DE CHUCURI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68245",
+        "nombre": "EL GUACAMAYO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68250",
+        "nombre": "EL PEÑON",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68255",
+        "nombre": "EL PLAYON",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68264",
+        "nombre": "ENCINO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68266",
+        "nombre": "ENCISO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68271",
+        "nombre": "FLORIAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68276",
+        "nombre": "FLORIDABLANCA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "68296",
+        "nombre": "GALAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68298",
+        "nombre": "GAMBITA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68307",
+        "nombre": "GIRON",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "68318",
+        "nombre": "GUACA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68320",
+        "nombre": "GUADALUPE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68322",
+        "nombre": "GUAPOTA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68324",
+        "nombre": "GUAVATA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68327",
+        "nombre": "GUEPSA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68344",
+        "nombre": "HATO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68368",
+        "nombre": "JESUS MARIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68370",
+        "nombre": "JORDAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68377",
+        "nombre": "LA BELLEZA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68397",
+        "nombre": "LA PAZ",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68385",
+        "nombre": "LANDAZURI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68406",
+        "nombre": "LEBRIJA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68418",
+        "nombre": "LOS SANTOS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68425",
+        "nombre": "MACARAVITA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68432",
+        "nombre": "MALAGA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "68444",
+        "nombre": "MATANZA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68464",
+        "nombre": "MOGOTES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68468",
+        "nombre": "MOLAGAVITA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68498",
+        "nombre": "OCAMONTE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68500",
+        "nombre": "OIBA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68502",
+        "nombre": "ONZAGA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68522",
+        "nombre": "PALMAR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68524",
+        "nombre": "PALMAS DEL SOCORRO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68533",
+        "nombre": "PARAMO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68547",
+        "nombre": "PIEDECUESTA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "68549",
+        "nombre": "PINCHOTE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68572",
+        "nombre": "PUENTE NACIONAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68573",
+        "nombre": "PUERTO PARRA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68575",
+        "nombre": "PUERTO WILCHES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68615",
+        "nombre": "RIONEGRO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68655",
+        "nombre": "SABANA DE TORRES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68669",
+        "nombre": "SAN ANDRES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68673",
+        "nombre": "SAN BENITO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68679",
+        "nombre": "SAN GIL",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "68682",
+        "nombre": "SAN JOAQUIN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68684",
+        "nombre": "SAN JOSE DE MIRANDA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68686",
+        "nombre": "SAN MIGUEL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68689",
+        "nombre": "SAN VICENTE DE CHUCURI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68705",
+        "nombre": "SANTA BARBARA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68720",
+        "nombre": "SANTA HELENA DEL OPON",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68745",
+        "nombre": "SIMACOTA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68755",
+        "nombre": "SOCORRO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "68770",
+        "nombre": "SUAITA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68773",
+        "nombre": "SUCRE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68780",
+        "nombre": "SURATA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68820",
+        "nombre": "TONA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68855",
+        "nombre": "VALLE DE SAN JOSE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68861",
+        "nombre": "VELEZ",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "68867",
+        "nombre": "VETAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68872",
+        "nombre": "VILLANUEVA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "68895",
+        "nombre": "ZAPATOCA",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "SUCRE",
+    "municipios":[
+      {
+        "codigo": "70110",
+        "nombre": "BUENAVISTA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "70124",
+        "nombre": "CAIMITO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "70230",
+        "nombre": "CHALAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "70204",
+        "nombre": "COLOSO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "70215",
+        "nombre": "COROZAL",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70221",
+        "nombre": "COVEÑAS",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70233",
+        "nombre": "EL ROBLE",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "70235",
+        "nombre": "GALERAS",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70265",
+        "nombre": "GUARANDA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "70400",
+        "nombre": "LA UNION",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "70418",
+        "nombre": "LOS PALMITOS",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70429",
+        "nombre": "MAJAGUAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "70473",
+        "nombre": "MORROA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70508",
+        "nombre": "OVEJAS",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70523",
+        "nombre": "PALMITO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70670",
+        "nombre": "SAMPUES",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70678",
+        "nombre": "SAN BENITO ABAD",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "70702",
+        "nombre": "SAN JUAN DE BETULIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70708",
+        "nombre": "SAN MARCOS",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70713",
+        "nombre": "SAN ONOFRE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70717",
+        "nombre": "SAN PEDRO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "70820",
+        "nombre": "SANTIAGO DE TOLU",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70742",
+        "nombre": "SINCE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70001",
+        "nombre": "SINCELEJO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "70771",
+        "nombre": "SUCRE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "70823",
+        "nombre": "TOLU VIEJO",
+        "tiempo_entrega": "3"
+      }
+    ]
+  },
+  {
+    "Departamento": "TOLIMA",
+    "municipios":[
+      {
+        "codigo": "73024",
+        "nombre": "ALPUJARRA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73026",
+        "nombre": "ALVARADO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73030",
+        "nombre": "AMBALEMA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73043",
+        "nombre": "ANZOATEGUI",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73055",
+        "nombre": "ARMERO GUAYABAL",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73067",
+        "nombre": "ATACO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73124",
+        "nombre": "CAJAMARCA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73148",
+        "nombre": "CARMEN DE APICALA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73152",
+        "nombre": "CASABIANCA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73168",
+        "nombre": "CHAPARRAL",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73200",
+        "nombre": "COELLO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73217",
+        "nombre": "COYAIMA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73226",
+        "nombre": "CUNDAY",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73236",
+        "nombre": "DOLORES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73268",
+        "nombre": "ESPINAL",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "73270",
+        "nombre": "FALAN",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73275",
+        "nombre": "FLANDES",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "73283",
+        "nombre": "FRESNO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73319",
+        "nombre": "GUAMO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "73347",
+        "nombre": "HERVEO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73349",
+        "nombre": "HONDA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "73001",
+        "nombre": "IBAGUE",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "73352",
+        "nombre": "ICONONZO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73408",
+        "nombre": "LERIDA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73411",
+        "nombre": "LIBANO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73443",
+        "nombre": "MARIQUITA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "73449",
+        "nombre": "MELGAR",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "73461",
+        "nombre": "MURILLO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73483",
+        "nombre": "NATAGAIMA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73504",
+        "nombre": "ORTEGA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73520",
+        "nombre": "PALOCABILDO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73547",
+        "nombre": "PIEDRAS",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73555",
+        "nombre": "PLANADAS",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73563",
+        "nombre": "PRADO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73585",
+        "nombre": "PURIFICACION",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "73616",
+        "nombre": "RIOBLANCO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73622",
+        "nombre": "RONCESVALLES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73624",
+        "nombre": "ROVIRA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73671",
+        "nombre": "SALDAÑA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "73675",
+        "nombre": "SAN ANTONIO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73678",
+        "nombre": "SAN LUIS",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73686",
+        "nombre": "SANTA ISABEL",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73770",
+        "nombre": "SUAREZ",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73854",
+        "nombre": "VALLE DE SAN JUAN",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73861",
+        "nombre": "VENADILLO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "73870",
+        "nombre": "VILLAHERMOSA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "73873",
+        "nombre": "VILLARRICA",
+        "tiempo_entrega": "5"
+      }
+    ]
+  },
+  {
+    "Departamento": "VALLE DEL CAUCA",
+    "municipios":[
+      {
+        "codigo": "76020",
+        "nombre": "ALCALA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76036",
+        "nombre": "ANDALUCIA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "76041",
+        "nombre": "ANSERMANUEVO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76054",
+        "nombre": "ARGELIA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76100",
+        "nombre": "BOLIVAR",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76109",
+        "nombre": "BUENAVENTURA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76113",
+        "nombre": "BUGALAGRANDE",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76122",
+        "nombre": "CAICEDONIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76001",
+        "nombre": "CALI",
+        "tiempo_entrega": "2"
+      },
+      {
+        "codigo": "76126",
+        "nombre": "CALIMA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76130",
+        "nombre": "CANDELARIA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "76147",
+        "nombre": "CARTAGO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76233",
+        "nombre": "DAGUA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76243",
+        "nombre": "EL AGUILA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76246",
+        "nombre": "EL CAIRO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76248",
+        "nombre": "EL CERRITO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "76250",
+        "nombre": "EL DOVIO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76275",
+        "nombre": "FLORIDA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "76306",
+        "nombre": "GINEBRA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "76318",
+        "nombre": "GUACARI",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76111",
+        "nombre": "GUADALAJARA DE BUGA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76364",
+        "nombre": "JAMUNDI",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76377",
+        "nombre": "LA CUMBRE",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76400",
+        "nombre": "LA UNION",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76403",
+        "nombre": "LA VICTORIA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76497",
+        "nombre": "OBANDO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76520",
+        "nombre": "PALMIRA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76563",
+        "nombre": "PRADERA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "76606",
+        "nombre": "RESTREPO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76616",
+        "nombre": "RIOFRIO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76622",
+        "nombre": "ROLDANILLO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76670",
+        "nombre": "SAN PEDRO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76736",
+        "nombre": "SEVILLA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76823",
+        "nombre": "TORO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76828",
+        "nombre": "TRUJILLO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76834",
+        "nombre": "TULUA",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76845",
+        "nombre": "ULLOA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76863",
+        "nombre": "VERSALLES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76869",
+        "nombre": "VIJES",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76890",
+        "nombre": "YOTOCO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "76892",
+        "nombre": "YUMBO",
+        "tiempo_entrega": "3"
+      },
+      {
+        "codigo": "76895",
+        "nombre": "ZARZAL",
+        "tiempo_entrega": "3"
+      }
+    ]
+  },
+  {
+    "Departamento": "VAUPES",
+    "municipios":[
+      {
+        "codigo": "97161",
+        "nombre": "CARURU",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "97001",
+        "nombre": "MITU",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "97511",
+        "nombre": "PACOA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "97777",
+        "nombre": "PAPUNAUA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "97666",
+        "nombre": "TARAIRA",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "97889",
+        "nombre": "YAVARATE",
+        "tiempo_entrega": "4"
+      }
+    ]
+  },
+  {
+    "Departamento": "VICHADA",
+    "municipios":[
+      {
+        "codigo": "99773",
+        "nombre": "CUMARIBO",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "99524",
+        "nombre": "LA PRIMAVERA",
+        "tiempo_entrega": "5"
+      },
+      {
+        "codigo": "99001",
+        "nombre": "PUERTO CARREÑO",
+        "tiempo_entrega": "4"
+      },
+      {
+        "codigo": "99624",
+        "nombre": "SANTA ROSALIA",
+        "tiempo_entrega": "5"
+      }
+    ]
+  }
+] 

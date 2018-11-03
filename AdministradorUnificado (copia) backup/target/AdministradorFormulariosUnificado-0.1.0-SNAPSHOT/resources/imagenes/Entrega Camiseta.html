@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<title>Entrega Camiseta</title>
+		
+		<script>
+		var form = 'formularioentregacamiseta';
+		</script>
+		
+		<!--Import Google Icon Font-->
+		<link href="Entrega%20Camiseta_files/icon.css" rel="stylesheet">
+		
+		<!-- Compiled and CSS -->
+<!-- 		<link rel="stylesheet" href="../../css/Materialize.css"> -->
+		<link rel="stylesheet" href="Entrega%20Camiseta_files/materialize.css">
+		
+		<!-- Compiled and JavaScript -->
+		<script src="Entrega%20Camiseta_files/jquery-3.js"></script>
+		
+		<!-- Compiled and JavaScript -->
+		<script src="Entrega%20Camiseta_files/materialize.js"></script>
+		
+		<!-- Compiled and JavaScript -->
+		<script src="Entrega%20Camiseta_files/js"></script>
+		
+		<!--Let browser know website is optimized for mobile-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<!-- import my own styles -->
+		<link href="Entrega%20Camiseta_files/style-camiseta.css" rel="stylesheet">
+		
+		<!-- import datatable funtions and formulario tic function -->
+		<script type="text/javascript" src="Entrega%20Camiseta_files/datatable.js"></script>
+		<script type="text/javascript" src="Entrega%20Camiseta_files/functions.js"></script>
+		
+	<script type="text/javascript" charset="UTF-8" src="Entrega%20Camiseta_files/common.js"></script><script type="text/javascript" charset="UTF-8" src="Entrega%20Camiseta_files/util.js"></script><script type="text/javascript" charset="UTF-8" src="Entrega%20Camiseta_files/stats.js"></script></head>
+	<body>			
+		<div class="container">
+			<div class="row mobile-tansform">
+				<div class="formulario-content center">
+					<form id="form-inscribete" method="POST">
+						<br>
+						<div class="input-field labeledform">
+							<input id="nombreEoT" name="nombreEoT" class="validate" onkeypress="return soloLetras(event);" onkeyup="return soloLetras(event);" minlength="5" maxlength="50" required="" type="text">
+							<label for="nombreEoT">Nombre de la empresa / NombreTitular:</label>
+						</div>
+						
+						<div class="input-field labeledform">
+							<input id="NIT" name="NIT" class="validate" onkeypress="return validaNit(event);" onkeyup="return validaNit(event);" minlength="5" maxlength="25" required="" type="text">
+							<label for="NIT">NIT (Incluyendo Digito Verificación):</label>
+						</div>
+						
+						<div class="input-field labeledform">
+							<input id="nombreRloI" name="nombreRloI" class="validate" onkeypress="return soloLetras(event);" onkeyup="return soloLetras(event);" minlength="5" maxlength="50" required="" type="text">
+							<label for="nombreRloI">Nombre Representante Legal / Interlocutor:</label>
+						</div>
+						
+						<div class="input-field labeledform">
+							<input id="docRepInt" name="docRepInt" class="validate" onkeypress="return soloNumeros(event);" onkeyup="return soloNumeros(event);" minlength="5" maxlength="50" required="" type="text">
+							<label for="docRepInt">Documento Representante Legal / Interlocutor:</label>
+						</div>
+						
+						<div class="row">
+							<div class="input-field col s6">
+								<input id="telefonoC" name="telefonoC" class="validate" minlength="10" maxlength="10" onkeypress="return soloNumeros(event);" onkeyup="return soloNumeros(event);" required="" type="text">
+								<label for="telefonoC">Teléfono Celular:</label>
+							</div>
+							
+							<div class="input-field col s6">
+								<input id="telefonoF" name="telefonoF" class="validate" minlength="8" maxlength="10" onkeypress="return soloNumeros(event);" onkeyup="return soloNumeros(event);" required="" type="text">
+								<label for="telefonoF">Teléfono Fijo:</label>
+							</div>
+						</div>
+						
+						<div class="input-field direction">
+							
+							<div class="select-wrapper validate inputDireccion initialized"><span class="caret">▼</span><input class="select-dropdown" readonly="true" data-activates="select-options-668a5f03-f8ad-6e7a-5f82-2321db94067d" value="Direccion" type="text"><ul id="select-options-668a5f03-f8ad-6e7a-5f82-2321db94067d" class="dropdown-content select-dropdown "><li class="disabled "><span>Direccion</span></li><li class=""><span>Avenida</span></li><li class=""><span>Calle</span></li><li class=""><span>Carrera</span></li><li class=""><span>Carretera</span></li><li class=""><span>Central</span></li><li class=""><span>Casco</span></li><li class=""><span>urbano</span></li><li class=""><span>Corregimiento</span></li><li class=""><span>Diagonal</span></li><li class=""><span>Entrada</span></li><li class=""><span>Esquina</span></li><li class=""><span>Estación</span></li><li class=""><span>Finca</span></li><li class=""><span>Hacienda</span></li><li class=""><span>Kilometro</span></li><li class=""><span>Lote</span></li><li class=""><span>Manzana</span></li><li class=""><span>Parcela</span></li><li class=""><span>Transversal</span></li><li class=""><span>Troncal</span></li><li class=""><span>Urbanización</span></li><li class=""><span>Vereda</span></li><li class=""><span>Vía</span></li></ul><select class="validate inputDireccion initialized" id="direccioncaja1" name="direccioncaja1" style="display:none" required="" data-select-id="668a5f03-f8ad-6e7a-5f82-2321db94067d"><option value="" disabled="disabled" selected="selected">Direccion</option><option value="Avenida">Avenida</option><option value="Calle">Calle</option><option value="Carrera">Carrera</option><option value="Carretera">Carretera</option><option value="Central">Central</option><option value="Casco">Casco</option><option value="urbano">urbano</option><option value="Corregimiento">Corregimiento</option><option value="Diagonal">Diagonal</option><option value="Entrada">Entrada</option><option value="Esquina">Esquina</option><option value="Estación">Estación</option><option value="Finca">Finca</option><option value="Hacienda">Hacienda</option><option value="Kilometro">Kilometro</option><option value="Lote">Lote</option><option value="Manzana">Manzana</option><option value="Parcela">Parcela</option><option value="Transversal">Transversal</option><option value="Troncal">Troncal</option><option value="Urbanización">Urbanización</option><option value="Vereda">Vereda</option><option value="Vía">Vía</option></select></div>
+							
+							<input id="direccioncaja2" name="direccioncaja2" class="validate inputDireccion" onkeypress="return alfaNumerico(event);" onkeyup="return alfaNumerico(event);" minlength="1" maxlength="5" required="" type="text">
+							#
+							<input id="direccioncaja3" name="direccioncaja3" class="validate inputDireccion" onkeypress="return alfaNumerico(event);" onkeyup="return alfaNumerico(event);" minlength="1" maxlength="5" required="" type="text">
+							-
+							<input id="direccioncaja4" name="direccioncaja4" class="validate inputDireccion" onkeypress="return alfaNumerico(event);" onkeyup="return alfaNumerico(event);" minlength="1" maxlength="5" required="" type="text">
+							
+							<input id="direccionUnida" name="direccionUnida" type="hidden">
+							
+							<input placeholder="Local, Apto, Etc" id="direccioncaja5" name="direccioncaja5" class="inputDireccion" onkeypress="return alfaNumerico(event);" onkeyup="return alfaNumerico(event);" minlength="1" maxlength="100" type="text">
+						</div>
+						
+						<div class="input-field labeledform">
+							<input id="barrio" name="barrio" onkeypress="return alfaNumerico(event);" onkeyup="return alfaNumerico(event);" minlength="5" maxlength="200" type="text">
+							<label for="barrio">Barrio (Indicaciones Adicionales):</label>
+						</div>
+						
+						<div class="row">
+							<div class="input-field col s6">
+								<div class="select-wrapper validate initialized"><span class="caret">▼</span><input class="select-dropdown" readonly="true" data-activates="select-options-dcf06a87-fd16-c24d-ef9b-e98fff46fcc2" value="Elija un departamento" type="text"><ul id="select-options-dcf06a87-fd16-c24d-ef9b-e98fff46fcc2" class="dropdown-content select-dropdown "><li class="disabled "><span>Elija un departamento</span></li><li class=""><span>AMAZONAS</span></li><li class=""><span>ANTIOQUIA</span></li><li class=""><span>ARAUCA</span></li><li class=""><span>SAN ANDRES, PROVIDENCIA Y SANTA CATALINA</span></li><li class=""><span>ATLANTICO</span></li><li class=""><span>BOGOTA D.C.</span></li><li class=""><span>BOLIVAR</span></li><li class=""><span>BOYACA</span></li><li class=""><span>CALDAS</span></li><li class=""><span>CAQUETA</span></li><li class=""><span>CASANARE</span></li><li class=""><span>CAUCA</span></li><li class=""><span>CHOCO</span></li><li class=""><span>CORDOBA</span></li><li class=""><span>CUNDINAMARCA</span></li><li class=""><span>GUAINIA</span></li><li class=""><span>GUAVIARE</span></li><li class=""><span>HUILA</span></li><li class=""><span>LA GUAJIRA</span></li><li class=""><span>MAGDALENA</span></li><li class=""><span>META</span></li><li class=""><span>NARIÑO</span></li><li class=""><span>NORTE DE SANTANDER</span></li><li class=""><span>PUTUMAYO</span></li><li class=""><span>QUINDIO</span></li><li class=""><span>RISARALDA</span></li><li class=""><span>SANTANDER</span></li><li class=""><span>SUCRE</span></li><li class=""><span>TOLIMA</span></li><li class=""><span>VALLE DEL CAUCA</span></li><li class=""><span>VAUPES</span></li><li class=""><span>VICHADA</span></li></ul><select class="validate initialized" id="departamento" name="departamento" onchange="chargeSelectMunicipios($('#departamento').val());" required="" data-select-id="dcf06a87-fd16-c24d-ef9b-e98fff46fcc2"><option value="" disabled="disabled" selected="selected">Elija un departamento</option><option value="AMAZONAS">AMAZONAS</option><option value="ANTIOQUIA">ANTIOQUIA</option><option value="ARAUCA">ARAUCA</option><option value="SAN ANDRES, PROVIDENCIA Y SANTA CATALINA">SAN ANDRES, PROVIDENCIA Y SANTA CATALINA</option><option value="ATLANTICO">ATLANTICO</option><option value="BOGOTA D.C.">BOGOTA D.C.</option><option value="BOLIVAR">BOLIVAR</option><option value="BOYACA">BOYACA</option><option value="CALDAS">CALDAS</option><option value="CAQUETA">CAQUETA</option><option value="CASANARE">CASANARE</option><option value="CAUCA">CAUCA</option><option value="CHOCO">CHOCO</option><option value="CORDOBA">CORDOBA</option><option value="CUNDINAMARCA">CUNDINAMARCA</option><option value="GUAINIA">GUAINIA</option><option value="GUAVIARE">GUAVIARE</option><option value="HUILA">HUILA</option><option value="LA GUAJIRA">LA GUAJIRA</option><option value="MAGDALENA">MAGDALENA</option><option value="META">META</option><option value="NARIÑO">NARIÑO</option><option value="NORTE DE SANTANDER">NORTE DE SANTANDER</option><option value="PUTUMAYO">PUTUMAYO</option><option value="QUINDIO">QUINDIO</option><option value="RISARALDA">RISARALDA</option><option value="SANTANDER">SANTANDER</option><option value="SUCRE">SUCRE</option><option value="TOLIMA">TOLIMA</option><option value="VALLE DEL CAUCA">VALLE DEL CAUCA</option><option value="VAUPES">VAUPES</option><option value="VICHADA">VICHADA</option></select></div>
+							</div>
+							
+							<div class="input-field col s6">
+								<div class="select-wrapper validate"><span class="caret">▼</span><input class="select-dropdown" readonly="true" data-activates="select-options-7b132d06-f5f2-f77b-8fcf-834144bdadf3" value="Elija un municipio" type="text"><ul id="select-options-7b132d06-f5f2-f77b-8fcf-834144bdadf3" class="dropdown-content select-dropdown "><li class="disabled "><span>Elija un municipio</span></li></ul><select class="validate initialized" id="municipio" name="municipio" onchange="chargeSelectTiempoEntrega($('#municipio').val());" required="" data-select-id="7b132d06-f5f2-f77b-8fcf-834144bdadf3">
+							    	<option value="" disabled="disabled" selected="selected">Elija un municipio</option>
+							  	</select></div>
+							</div>
+						</div>
+						
+						<p class="infoText">Podrá agendar la entrega de su obsequio postrerior al dia: <input placeholder="YYYY-MM-DD" id="fechaCalculada" name="fechaCalculada" class="fechaCalculada" readonly="true" type="text"></p>
+						
+						<div class="input-field labeledform">
+							<input id="fechaE" name="fechaE" class="datepicker" required="" disabled="disabled" type="date">
+							<label class="active" for="fechaE">Seleccione fecha entrega obsequio:</label>
+						</div>
+						
+						<p class="tratamientoDatos center">
+							<input class="filled-in" id="tratamientoDatos" name="tratamientoDatos" value="No" type="checkbox">
+							<label for="tratamientoDatos">Tratamiento de datos</label>
+						</p>
+						
+						<p class="center"><b>Por favor tener en cuenta las siguientes recomendaciones:<br></b>Las entregas se realizarán de Lunes a Viernes en jornada hábil (8am a
+							6pm). No se realizarán entregas los fines de semana o festivos. El día
+							de la entrega debe tener a la mano el documento de identificación de
+							quien este registrado como representante legal, titular o interlocutor.
+							Solo se le entregará el obsequio al representante legal, titular o
+							interlocutor. Consulte más términos y condiciones en nuestras líneas
+							de atención o en el siguiente enlace: <a href="http://www.movistar.co/web/negocios/terminos-condiciones">http://www.movistar.co/web/negocios/terminos-condiciones</a>
+						</p>
+						
+						<div class="row">
+							<button class="btn" id="submit" onclick="construirDireccion()" type="submit">Enviar</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	
+<div class="hiddendiv common"></div></body><style type="text/css"></style></html>

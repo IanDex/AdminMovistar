@@ -1,0 +1,46 @@
+/*para moviles*/
+@font-face {
+  font-family: 'Telefonica-Light';
+  src: url('../fuentes/Telefonica-Light.otf');
+  src: url('../fuentes/Telefonica-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Telefonica-ExtraLight';
+  src: url('../fuentes/Telefonica-ExtraLight.otf');
+  src: url('../fuentes/Telefonica-ExtraLight.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Telefonica-Regular';
+  src: url('../fuentes/Telefonica-Regular.otf');
+  src: url('../fuentes/Telefonica-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html, body {
+	height: 100%;
+	background-color: #eee;
+	position: relative;
+	z-index: 1;
+}
+nav {
+	background-color: #03a9f4;
+	box-shadow: 0 0 0 0;
+}
+header{
+	height: 80%;
+	background-color: #03a9f4;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
